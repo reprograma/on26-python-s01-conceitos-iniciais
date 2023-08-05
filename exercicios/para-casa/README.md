@@ -2,9 +2,15 @@
 
 ## Nome do Exercicio
 
-- Explicação do exercício: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci.
-Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. 
+- 1. [ ] Crie um arquivo no formato markdown ex: readme`.md` e nele explique com suas palavras chatGPT ou bard para iniciante em programação ajuda ou atrapalha?
+- 2. [ ] Faça um psodocódigo  de uma tarefa simples codidiana: Ex: Pegar um copo d`agua, lembre-se que precisa ser em markdown.
+- [ ] Faça um commit após finalizar cada arquivo e lembre-se de uma mensagem descritiva.
+- [ ] Crie um repositório remoto 
+
+- extra: O que é readme e sintase do markdown.
+- extra: Para que serve o gitignore
+- extra: reverter um commit
+- extra: git rebase
 ---
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
