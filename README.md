@@ -114,6 +114,17 @@ git config --global user.name "Seu Nome"
 # Define o email utilizado no github
 git config --global user.email "seu.email@exemplo.com"
 ```
+#### Configurando o git
+
+```bash
+# Define a branch padrão como main
+git config --global init.defaultBranch main
+
+# Definir o nano como editor padrão
+git config --global core.editor "nano"
+
+```
+
 #### Visualizando as configurações
 
 ```bash
