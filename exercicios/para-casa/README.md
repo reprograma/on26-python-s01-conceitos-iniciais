@@ -2,8 +2,8 @@
 
 ## Nome do Exercicio
 
-- 1. [ ] Crie um arquivo no formato markdown ex: readme`.md` e nele explique com suas palavras chatGPT ou bard para iniciante em programação ajuda ou atrapalha?
-- 2. [ ] Faça um psodocódigo  de uma tarefa simples codidiana: Ex: Pegar um copo d`agua, lembre-se que precisa ser em markdown.
+- 1. [x] Crie um arquivo no formato markdown ex: readme`.md` e nele explique com suas palavras chatGPT ou bard para iniciante em programação ajuda ou atrapalha?
+- 2. [x] Faça um psodocódigo  de uma tarefa simples codidiana: Ex: Pegar um copo d`agua, lembre-se que precisa ser em markdown.
 - [ ] Faça um commit após finalizar cada arquivo e lembre-se de uma mensagem descritiva.
 - [ ] Crie um repositório remoto 
 
