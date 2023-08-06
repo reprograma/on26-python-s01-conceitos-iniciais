@@ -45,4 +45,6 @@ E aí pra terminar de enviar para o repositório local:
 
 Daí ele pede a senha, então eu colei o token e deu certo o/
 
-
+<p align="center">
+Feito com :purple_heart:  
+</p>
