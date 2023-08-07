@@ -22,7 +22,7 @@ Antes de começar, vamos organizar nosso setup.
 
 👋🏽 Levante a mão caso tenha dúvida ( também é valido anotar para não esquecer)
 
-🚰 Não se esqueca da garrafinha d'água
+🚰 Não se esqueca da garrafinha d'água, porfavor 💜
 
 ❌ Respeite as colegas
 
@@ -45,7 +45,7 @@ No começo pode parecer dificil de se utilizar, mas no nosso dia a dia é muito 
 | Comando | Descrição | Exemplo de Uso |
 |---------|-----------|----------------|
 | `ls`    | Listagem - Exibe o conteúdo do diretório atual. | `ls` |
-| `cd`    | Navegação - Muda o diretório atual. | `cd /caminho/do/diretorio` |
+| `cd`    | Navegação - Muda o diretório atual. | `cd /test1/perfil` |
 | `pwd`    | Pasta atual - Exibe o caminho atual. | `pwd` |
 
 
