@@ -144,7 +144,7 @@ git config --global core.editor "nano"
 | Comando      | Descrição                                                | Exemplo de Uso             |
 |--------------|----------------------------------------------------------|----------------------------|
 | `status`     | Exibe o estado atual do repositório Git.                 | `git status`               |
-| `add`    | Adiciona as alterações dos arquivos ao índice.           | `git add arquivo.txt`      |
+| `add`    | Adiciona as alterações dos arquivos ao índice.           | `git add file.txt`      |
 | `commit` | Cria um novo commit contendo as alterações adicionadas.  | `git commit -m "Mensagem"` |
 | `push`   | Envia os commits locais para o repositório remoto.       | `git push origin main`     |
 
