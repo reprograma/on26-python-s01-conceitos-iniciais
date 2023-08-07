@@ -44,7 +44,7 @@ No começo pode parecer dificil de se utilizar, mas no nosso dia a dia é muito 
 
 | Comando | Descrição | Exemplo de Uso |
 |---------|-----------|----------------|
-| `ls`    | Listagem - Exibe o conteúdo do diretório atual. | `ls` |
+| `ls`    | Listagem - Exibe o conteúdo do diretório atual. | `mostra os arquivos dentro da pasta` |
 | `cd`    | Navegação - Muda o diretório atual. | `cd /caminho/do/diretorio` |
 | `pwd`    | Pasta atual - Exibe o caminho atual. | `pwd` |
 
