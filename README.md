@@ -144,7 +144,7 @@ git config --global core.editor "nano"
 | Comando      | Descrição                                                | Exemplo de Uso             |
 |--------------|----------------------------------------------------------|----------------------------|
 | `status`     | Exibe o estado atual do repositório Git.                 | `git status`               |
-| `add`    | Adiciona as alterações dos arquivos ao índice.           | `git add arquivo.txt`      |
+| `add`    | Adiciona as alterações dos arquivos ao índice.           | `git add arquivo.pdf`      |
 | `commit` | Cria um novo commit contendo as alterações adicionadas.  | `git commit -m "Mensagem"` |
 | `push`   | Envia os commits locais para o repositório remoto.       | `git push origin main`     |
 
@@ -195,8 +195,8 @@ git config --global core.editor "nano"
 (O comando acima muda branchc "beatriz" para branch "main")
 
 7. `git branch`
-- Faz as listagens de todas as branchs
-   - Alterna para uma branch
+- mostrar listagem de todas as branchs
+   - Troca para uma branch
    - Exemplo de uso
 
       ```bash
