@@ -1,0 +1,2 @@
+Chat GPT ele é um IA que ajuda nas soluções de erros de codigo mostrando onde que está o erro e dando uma correção para. Assim como também ajudando em muitas outras coisas como criar texto, traduzir texto, etc.
+Na minha opinião mais ajuda do que atrapalha pois consigo descobrir significado de coisas que não sei ou até mesmo códigos. Ajuda também a traduzir para pessoas que tem dificuldade com o inglês, como eu. Acho super util.

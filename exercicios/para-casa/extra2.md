@@ -1,0 +1,1 @@
+O GITGNORE basicamente serve para ignorar alguns arquivos durante o rastreamento de alterações, e também quando adiciona arquivos as pastas.

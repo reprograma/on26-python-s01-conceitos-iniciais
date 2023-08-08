@@ -1,0 +1,1 @@
+README comummente é um arquivo em formato de texto que contem informações importantes, as vezes instruções sobre como instalar determinado programa contendo as vezes a chave de instalação, ou também, a discrição de algo ou algum perfil como no GitHub (Um curriculum?). Com Markdown no README é para designar título, sub título, marcações, etc.
