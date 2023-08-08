@@ -1,0 +1,1 @@
+# A IA mais ajuda ou atrapalha a pessoa programadora iniciante?
