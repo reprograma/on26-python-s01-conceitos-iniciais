@@ -53,7 +53,7 @@ No começo pode parecer dificil de se utilizar, mas no nosso dia a dia é muito 
 
 | Comando | Descrição | Exemplo de Uso |
 |---------|-----------|----------------|
-| `touch` | Cria um novo arquivo. | `touch novo_arquivo.txt` |
+| `touch` | Cria um novo arquivo. | `touch nova_tarefa.txt` |
 | `cat`   | Exibe o conteúdo de um arquivo. | `cat arquivo.txt` |
 | `cp`    | Copia um arquivo ou diretório. | `cp arquivo.txt destino/` |
 | `mv`    | Move um arquivo ou diretório. | `mv arquivo.txt destino/` |
