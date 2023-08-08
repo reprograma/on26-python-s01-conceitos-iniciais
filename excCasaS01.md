@@ -1,0 +1,2 @@
+## Chat GPT ou Bard, ajudam ou não programadores iniciantes? 
+Bom na minha opnião eu acho que ajuda sim! Imagine comigo, se eu estiver em casa e sem a orientação de uma pessoa especializada e tiver com muita dúvida no exercício eu posso ir no chat gpt e pedir exemplos de como entender melhor aquela matéria. Mas por outro lado penso que pode ser bem viciante querer fazer tudo utilizando ele!! Resumindo eu gosto e não gosto kakakaka 

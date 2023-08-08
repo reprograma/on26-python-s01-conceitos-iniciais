@@ -251,7 +251,9 @@ O termo `pull request`(traduzindo: solicitação para contribuir) é amplamente 
 durante o processo outros desenvolvedores analisa a proposta enviada e dar feedbacks de melhorias;
 caso o código proposto esteja coerente com a necessidade do software ele é aceito, caso contrário é recusado.
 
-## Entregável da semana
+## Exercício para casa S01
+## Chat GPT ou Bard, ajudam ou não programadores iniciantes? 
+Bom na minha opnião eu acho que ajuda sim! Imagine comigo, se eu estiver em casa e sem a orientação de uma pessoa especializada e tiver com muita dúvida no exercício eu posso ir no chat gpt e pedir exemplos de como entender melhor aquela matéria. Mas por outro lado penso que pode ser bem viciante querer fazer tudo utilizando ele!! Resumindo eu gosto e não gosto kakakaka 
 
 
 ## Referencias / Materiais complementares
