@@ -271,6 +271,17 @@ Este pseudocódigo descreve o processo de amarrar os cadarços dos sapatos.
 7. Cruze elas e aperte. 
 8. Assim finalizando para estar bem presa!!
 
+### EXTRAS ✨
+
+#### O que é README e sintase do markdown.
+- É um arquivo de texto, normalmente, incluido no repositório. Fornece informações importantes sobre o projeto. Podemos escrever ela para deixar a nossa cara, já que o README vai ser a primeira coisa que a pessoa olhará do seu projeto. 
+- Eu associei o markdown com o word, porque é simples de formatar. Mas pesquisando na net de uma maneira mais formal, é um conjunto de conveções de formatação leve que permite criar conteudo com formatação simples, como cabeçalhos, listas, links e etc sem a necessidade de usar o HTML ou outras linguagens de marcação.  
+
+#### Para que serve o gitignore
+
+
+
+
 ## Referencias / Materiais complementares
 
 ### videos
