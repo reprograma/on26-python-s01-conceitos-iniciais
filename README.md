@@ -4,7 +4,7 @@
 
 # Git e Github
 
-Turma Online on26 | python | Semana 1 | 2023 | Professora Beatriz Ramerindo
+Turma Online on26 | python | Semana 1 | 2023 | Aluna Nargylla Cloviel
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
