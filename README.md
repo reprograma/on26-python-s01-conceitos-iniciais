@@ -262,7 +262,7 @@ Bom na minha opnião eu acho que ajuda sim! Imagine comigo, se eu estiver em cas
 Este pseudocódigo descreve o processo de amarrar os cadarços dos sapatos.
 
 #### Passos
-1. Certificar que os sapatos estão dessamarrados.
+1. Certificar que os sapatos estão desamarrados.
 2. Colocar cada cadarços em cada uma das mãos. 
 3. Com o cadarço da mão direita cruze por cima da mão esquerda. 
 4. Ainda com o cadarço da mão direita, passe por baixo do da mão esquerda. 
@@ -278,6 +278,7 @@ Este pseudocódigo descreve o processo de amarrar os cadarços dos sapatos.
 - Eu associei o markdown com o word, porque é simples de formatar. Mas pesquisando na net de uma maneira mais formal, é um conjunto de conveções de formatação leve que permite criar conteudo com formatação simples, como cabeçalhos, listas, links e etc sem a necessidade de usar o HTML ou outras linguagens de marcação.  
 
 #### Para que serve o gitignore
+- Usado para especificar quais arquivos devem ser ignorados ao fazermos o git add e o git push.
 
 
 
