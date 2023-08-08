@@ -255,6 +255,21 @@ caso o código proposto esteja coerente com a necessidade do software ele é ace
 ### Chat GPT ou Bard, ajudam ou não programadores iniciantes? 
 Bom na minha opnião eu acho que ajuda sim! Imagine comigo, se eu estiver em casa e sem a orientação de uma pessoa especializada e tiver com muita dúvida no exercício eu posso ir no chat gpt e pedir exemplos de como entender melhor aquela matéria. Mas por outro lado penso que pode ser bem viciante querer fazer tudo utilizando ele!! Resumindo eu gosto e não gosto kakakaka 
 
+### Faça um psodocódigo de uma tarefa simples codidiana
+#### Pseudocódigo: Amarrar os cadarços.
+
+#### Descrição
+Este pseudocódigo descreve o processo de amarrar os cadarços dos sapatos.
+
+#### Passos
+1. Certificar que os sapatos estão dessamarrados.
+2. Colocar cada cadarços em cada uma das mãos. 
+3. Com o cadarço da mão direita cruze por cima da mão esquerda. 
+4. Ainda com o cadarço da mão direita, passe por baixo do da mão esquerda. 
+5. Puxe os dois cardaço para cima e assim forma um nó simples.
+6. Enrole os dois cadarços como se fosse orelhas de coelhos.
+7. Cruze elas e aperte. 
+8. Assim finalizando para estar bem presa!!
 
 ## Referencias / Materiais complementares
 
