@@ -64,8 +64,8 @@ No começo pode parecer dificil de se utilizar, mas no nosso dia a dia é muito 
 
 | Comando | Descrição | Exemplo de Uso |
 |---------|-----------|----------------|
-| `help`  | Mostra a ajuda para um comando. | `help cd` ou `help ls` |
-| `clear` | Limpa a tela do terminal. | `clear` |
+| `help`  | Mostra todos os comandos | `help cd` ou `help ls` |
+| `clear` | Para ajudar no nosso toc, limpa limpa limpa | `clear` |
 | `echo`  | Exibe uma mensagem na tela ou redireciona para um arquivo. | `echo "Olá, mundo!"` ou `echo "Texto" > arquivo.txt`
 
 
