@@ -192,7 +192,7 @@ git config --global core.editor "nano"
       ```bash
       git checkout main
       ```
-(O comando acima muda branchc "beatriz" para branch "main")
+(O comando acima muda branchc "rafaella" para branch "main")
 
 7. `git branch`
 - Faz as listagens de todas as branchs
