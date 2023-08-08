@@ -1,0 +1,3 @@
+# ChatGPT ou bard para iniciante em programação ajuda ou atrapalha?
+
+## Eu acredito que sabendo utilizar a ferramenta, ela podeter uma grande importância na colaboração das atividades. Você não pode acreditar que a ferramenta vai fazer tudo por você e que você nem precisar revisar o que está sendo feito. Logo, direcione a seu favor, revise, elabore as perguntas embasadas em conhecimentos que você já tenha e faça da ferramenta sua colaboadora.
