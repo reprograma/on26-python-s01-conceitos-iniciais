@@ -53,11 +53,11 @@ No começo pode parecer dificil de se utilizar, mas no nosso dia a dia é muito 
 
 | Comando | Descrição | Exemplo de Uso |
 |---------|-----------|----------------|
-| `touch` | Cria um novo arquivo. | `touch novo_arquivo.txt` |
-| `cat`   | Exibe o conteúdo de um arquivo. | `cat arquivo.txt` |
-| `cp`    | Copia um arquivo ou diretório. | `cp arquivo.txt destino/` |
+| `touch` | Cria um novo arquivo. | `touch arquivocriado.txt` |
+| `cat`   | Exibe o conteúdo de um arquivo. | `cat anotacoes-aluna.txt` |
+| `cp`    | Copia um arquivo ou diretório. | `cp arquivinho.txt destino/` |
 | `mv`    | Move um arquivo ou diretório. | `mv arquivo.txt destino/` |
-| `rm`    | Remove um arquivo ou diretório. | `rm arquivo.txt` ou `rm -r pasta/` |
+| `rm`    | Remove um arquivo ou diretório. | `rm documentos.txt` ou `rm -r pasta/` |
 
 
 #### Outros
@@ -66,7 +66,7 @@ No começo pode parecer dificil de se utilizar, mas no nosso dia a dia é muito 
 |---------|-----------|----------------|
 | `help`  | Mostra a ajuda para um comando. | `help cd` ou `help ls` |
 | `clear` | Limpa a tela do terminal. | `clear` |
-| `echo`  | Exibe uma mensagem na tela ou redireciona para um arquivo. | `echo "Olá, mundo!"` ou `echo "Texto" > arquivo.txt`
+| `echo`  | Exibe uma mensagem na tela ou redireciona para um arquivo. | `echo "Que babadeira!"` ou `echo "Texto" > arquivo.txt`
 
 
 ## Git
