@@ -14,7 +14,7 @@ Andar com o cachorro
     Se sim, então
     Apanhar com a Sacolinha
     e volte para casa.
-Senão continue o passeio
+Senão continue o passeio.
     
 
 
