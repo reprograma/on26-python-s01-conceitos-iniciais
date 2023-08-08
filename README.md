@@ -22,7 +22,7 @@ Antes de começar, vamos organizar nosso setup.
 
 👋🏽 Levante a mão caso tenha dúvida ( também é valido anotar para não esquecer)
 
-🚰 Não se esqueca da garrafinha d'água
+🚰 Não se esqueca da garrafinha d'água.
 
 ❌ Respeite as colegas
 
