@@ -1,1 +1,0 @@
-## Explicação de hoje!! 8/8/23
