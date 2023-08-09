@@ -28,6 +28,8 @@ Antes de começar, vamos organizar nosso setup.
 
 ⚠️ Toda dúvida é importante e fofocas no chat 💅🏽
 
+Lanchinho!
+
 
 ## Terminal
 
