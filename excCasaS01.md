@@ -26,3 +26,5 @@ Este pseudocódigo descreve o processo de amarrar os cadarços dos sapatos.
 
 #### Para que serve o gitignore
 - Usado para especificar quais arquivos devem ser ignorados ao fazermos o git add e o git push.
+
+Estou escrevendo aqui porque quero testar se meu git push ta dando certo!
