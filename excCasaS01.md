@@ -5,7 +5,7 @@ Bom na minha opnião eu acho que ajuda sim! Imagine comigo, se eu estiver em cas
 ### Faça um psodocódigo de uma tarefa simples cotidiana
 #### Pseudocódigo: Amarrar os cadarços.
 
-#### Descrição
+#### Descrição do pseudocódigo.
 Este pseudocódigo descreve o processo de amarrar os cadarços dos sapatos.
 
 #### Passos
