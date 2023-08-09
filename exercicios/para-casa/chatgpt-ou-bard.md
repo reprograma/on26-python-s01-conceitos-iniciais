@@ -16,6 +16,7 @@ Bard é o chatbot de inteligência artificial do Google. Os chatbots são progra
 
 A resposta é: depende! Depende de como a aluna vai utilizar isso no dia a dia nos estudos. Ambos são muito bons para auxiliar os estudos e a compreensão de algumas terminologias e até mesmo explicação de códigos. Ao mesmo tempo que elas podem ajudar a montar um cronograma de estudos para que você aprimore o que está vendo. Você pode acabar pendendo para o lado escuro da força e se apoiar totalmente nessas tecnologias para estudar, mas é sempre bom lembrar que terá um momento em que ela não poderá ser utilizada e não podemos confiar apennas do `CTRL+C` e `CRTL+V`. Tudo é permitido se for usado com cautela.
 
-<img src="https://giphy.com/embed/HoffxyN8ghVuw" width="70" />
-
-<div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/HoffxyN8ghVuw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/love-mini-hanger-HoffxyN8ghVuw">via GIPHY</a></p>
+<p align="center">
+<img src= "https://media.tenor.com/tNYus4tK5dEAAAAC/anime-computer.gif"  width="70%" height="70%"/>
+</p>
+<p align="center">
