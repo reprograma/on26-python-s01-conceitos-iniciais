@@ -57,7 +57,7 @@ No começo pode parecer dificil de se utilizar, mas no nosso dia a dia é muito 
 | `cat`   | Exibe o conteúdo de um arquivo. | `cat arquivo.txt` |
 | `cp`    | Copia um arquivo ou diretório. | `cp arquivo.txt destino/` |
 | `mv`    | Move um arquivo ou diretório. | `mv arquivo.txt destino/` |
-| `rm`    | Remove um arquivo ou diretório. | `rm arquivo.txt` ou `rm -r pasta/` |
+| `rm`    | Remove um arquivo ou diretório. | `rm arquivo.txt` ou `rm -r estudos/` |
 
 
 #### Outros
