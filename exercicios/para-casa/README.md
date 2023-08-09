@@ -1,9 +1,20 @@
-# Exercício de Casa 🏠 
+# Exercício de Casa Semana 1🏠 
 
-## Nome do Exercicio
+## Resolução
 
 - 1. [ ] Crie um arquivo no formato markdown ex: readme`.md` e nele explique com suas palavras chatGPT ou bard para iniciante em programação ajuda ou atrapalha?
+
+O ChatGPT como robô virtual oferece muitas possibilidades de auxílio, mas para iniciantes de progração eu acredito que deva ter um cuidado com o próposito de usabilidade, não como forma trazer resoluçao rápida para os eventuais problemas, mas para somar no processo de aprendizado. 
 - 2. [ ] Faça um psodocódigo  de uma tarefa simples codidiana: Ex: Pegar um copo d`agua, lembre-se que precisa ser em markdown.
+
+Processo de uma ação criminal
+- crime
+- Indiciamento
+- Ministério Público
+- Denúncia
+- Justiça
+- Réu ou Acusado
+
 - [ ] Faça um commit após finalizar cada arquivo e lembre-se de uma mensagem descritiva.
 - [ ] Crie um repositório remoto 
 
