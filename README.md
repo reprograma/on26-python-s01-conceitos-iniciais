@@ -68,6 +68,8 @@ No começo pode parecer dificil de se utilizar, mas no nosso dia a dia é muito 
 | `clear` | Limpa a tela do terminal. | `clear` |
 | `echo`  | Exibe uma mensagem na tela ou redireciona para um arquivo. | `echo "Olá, mundo!"` ou `echo "Texto" > arquivo.txt`
 
+EDIÇÃO PARA TESTAR PULL AAAAAAAAA SERÁ QUE VAI?
+
 
 ## Git
 
