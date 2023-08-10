@@ -39,7 +39,7 @@ No começo pode parecer dificil de se utilizar, mas no nosso dia a dia é muito 
 
 ### Comandos Básicos
 
-#### Navegação
+#### Navegação  Teste aleração
 
 
 | Comando | Descrição | Exemplo de Uso |
