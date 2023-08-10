@@ -1,0 +1,1 @@
+Eu acredito que as IAs são ferramentas que correspondem a sua época, automação é algo que está sofrendo uma transformação dramática na sociedade e no mundo em vários sentidos. Acredito que IAs de texto podem ser boas ferramentas de compreensão de conteúdos técnicos mas é importante fazer um uso criterioso da ferramenta e manter a mente afiada e o pensamento crítico.
