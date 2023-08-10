@@ -1,0 +1,15 @@
+Atividade 2 Semana 1 - Damaris Santos Teles Brito
+
+2. Pseudocódigo Fazer Café na Cafeteira:
+
+1. Verificar se tem os ingredientes
+1. Pegar o café e a água
+1. Colocar na cafeteira
+1. Ligar a cafeiteira
+1. Após pronto o café desligue a cafeteira
+
+- extra: O que é readme e sintase do markdown.
+  README é um guia que dá aos usuários uma descrição detalhada do projeto em que você trabalhou
+  Markdown é frequentemente usado para formatar arquivos README
+- extra: Para que serve o gitignore
+  O gitignore é utilizado para descrever ao Git tanto as pastas quanto os arquivos que a pessoa desenvolvedora deseja que sejam ignorados.
