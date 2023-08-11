@@ -1,1 +1,3 @@
-# Lembrar de escrever o exercicio 
+# O chatGPT é uma ajuda para iniciantes na programação? 
+
+Acredito que a depender do nivel de entendimento sobre comandos na programação, não a necessidade de recorrer com a ajuda da inteligencia artificial. Com tudo, a forma como o chat explica e ate demostra ensinar sobre o assuntos e conceitos facilita para o entendimento de um programador inicial, eu particulamente recorrir com o uso dele para entebder sobre termos e usos de comandos (mesmo depois de assistir aulas e aulas sobre). Para uma porta de entrada a IA consegue te orientar mas os afazeres diarios na programação e o aprendizado constante é somente com bastante treinamento e trabalho continuo. 
