@@ -6,7 +6,7 @@ README é um arquivo de extensão *.md*. Esse arquivo é usado para apresentar i
 
 O .gitgnore é um arquivo de texto oculto. Nele é listado os arquivos do projeto que não devem ser versionados, geralmente arquivos sensíveis.
 
-Como **reverter um commit**?
+### Como **reverter um commit**?
 
 Reverter (*git revert*) um commit significa criar um commit novo que desfaz as alterações realizadas no commit anterior. Por exemplo, se linhas/textos foram apagados: reescrevê-los; se linhas/textos foram adiconados: apagá-los.
 
