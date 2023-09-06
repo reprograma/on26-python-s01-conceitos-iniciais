@@ -1,0 +1,9 @@
+# Bard ajuda ou atrapalha iniciantes em programação?
+
+O Bard é uma tecnologia experimental da Google, no qual permite a interação entre usuário e IA generativa que nada mais é que uma inteligência artificial com capacidade de aprender padrões derivados de uma base de dados.
+Seguindo para nossa pergunta inicial, o Bard por ser uma tecnologia experimental pode não ser 100% assertiva nas dúvidas do usuário, principalmente, iniciantes novas habilidades, então é importante pesquisar fontes alternativas e não se prender a IA.
+
+## Bibliografia
+
+Bard: https://bard.google.com
+Canaltech: https://canaltech.com.br/inteligencia-artificial/o-que-e-ia-generativa/

@@ -1,0 +1,55 @@
+#Pseudocodigo: fazendo café
+
+<p>
+Abrir o armário;<br>
+Pegar a chaleira;<br>
+Fechar o armário;<br>
+Abrir a torneira;<br>
+Colocar água na chaleira;<br>
+Fechar torneira;<br>
+Colocar chaleira em cima de um boca de fogão;<br>
+Ligar o fogo;<br>
+Abrir o armário pegar o garrafa térmica;<br>
+Colocar a garrafa térmica em cima da mesa;<br>
+Abrir a garrafa térmica;<br>
+Colocar tampa na mesa;<br>
+Fechar o armário;<br>
+Abrir o armário pegar o filtro de plástico;<br>
+Colocar em cima da garrafa térmica;<br>
+Fechar o armário;<br>
+Abrir o armário;<br>
+Pegar o filtro de papel;<br>
+Colocar dentro do filtro de plástico;<br>
+Fechar o armário;<br>
+Abrir o armário;<br>
+Pegar o pote de pó de café;<br>
+Abrir o pote;<br>
+Abrir a gaveta;<br>
+Pegar uma colher de sopa;<br>
+Colocar 4 colheres de sopa de café no filtro de papel;<br>
+Fechar pote de café;<br>
+Guardar pote de café no armário;<br>
+Fechar o armário;<br>
+Abrir a geladeira;<br>
+Pegar o pote de açucar;<br>
+Abrir o pote;<br>
+Colocar 2 colheres de sopa de açucar no filtro de papel;<br>
+Fechar pote de açucar;<br>
+Guardar o pote de açucar na geladeira;<br>
+Fechar a geladeira;<br>
+Desligar o fogo depois de 10 min;<br>
+Pegar a chaleira;<br>
+Derramar toda a água no filtro de papel;<br>
+Colocar chaleira em cima do fogão;<br>
+Depois de 5 min tirar filtro de papel do filtro de plástico;<br>
+Ir até a lixeira;<br>
+Abrir a lixeira;<br>
+Jogar filtro de papel na lixeira;<br>
+Fechar lixeira;<br>
+Voltar a garrafa térmica;<br>
+Tirar o filtro de plástico;<br>
+Colocar na pia filtro de plástico;<br>
+Voltar a garrafa térmica;<br>
+Pegar tampa da garrafa térmica;<br>
+Tampar garrafa térmica;
+</p>
