@@ -6,7 +6,7 @@
 
 Turma Online on26 | python | Semana 1 | 2023 | Professora Beatriz Ramerindo
 
-### Instruções
+### Instruções para o Fork
 Antes de começar, vamos organizar nosso setup.
 * Fork esse repositório 
 * Clone o fork na sua máquina (Para isso basta abrir o seu terminal e digitar `git clone url-do-seu-repositorio-forkado`)
@@ -57,7 +57,7 @@ No começo pode parecer dificil de se utilizar, mas no nosso dia a dia é muito 
 | `cat`   | Exibe o conteúdo de um arquivo. | `cat arquivo.txt` |
 | `cp`    | Copia um arquivo ou diretório. | `cp arquivo.txt destino/` |
 | `mv`    | Move um arquivo ou diretório. | `mv arquivo.txt destino/` |
-| `rm`    | Remove um arquivo ou diretório. | `rm arquivo.txt` ou `rm -r pasta/` |
+| `rm`    | Remove um arquivo ou diretório. | `rm arquivo.txt` ou `rm -r estudos/` |
 
 
 #### Outros
