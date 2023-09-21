@@ -6,7 +6,7 @@
 
 Turma Online on26 | python | Semana 1 | 2023 | Professora Beatriz Ramerindo
 
-### Instruções
+### Instruções para o Fork
 Antes de começar, vamos organizar nosso setup.
 * Fork esse repositório 
 * Clone o fork na sua máquina (Para isso basta abrir o seu terminal e digitar `git clone url-do-seu-repositorio-forkado`)
